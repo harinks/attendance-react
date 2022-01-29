@@ -12,6 +12,18 @@
       "date": "2021-12-23",
       "studentId": 1,
       "id": 2
+    },
+    {
+      "attandance": "absent",
+      "date": "",
+      "studentId": 1,
+      "id": 3
+    },
+    {
+      "attandance": "present",
+      "date": "2021-12-26",
+      "studentId": 1,
+      "id": 4
     }
   ]
 }
